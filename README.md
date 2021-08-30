@@ -8,8 +8,14 @@ Truffle with environment setting and multiple network migration.
 - Binance Testnet
 - Binance Mainnet
 
-## Setting Env
+## Setup
 
+### 1. Install Package
+```
+npm install
+```
+
+### 2. Set Environment
 Edit `env` file and set variable needed. <br />
 example:
 ```
